@@ -1,0 +1,1 @@
+web: uwsgi heroku-uwsgi.ini
